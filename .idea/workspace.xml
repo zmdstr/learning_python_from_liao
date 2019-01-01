@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d2ba8ff-9db6-4c6f-b5ac-f5ed1ece4839" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dict_20170622.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter_201170720.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list和tuple_20170622.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapreduce_20170719.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python 安装_20170605.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python基础_20170622.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python简介_20170604.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/set_20170622.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sorted_20170721.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/函数_20170622.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/函数参数_20170622.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/函数式编程_20170717.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/切片_20170710.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/切片_20170711.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/列表生成式_20170712.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/匿名函数_20170723.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/字符串编码_20170622.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/循环_20170622.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据类型_20170622.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/生成器_20170713.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/输入输出_20170605.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/返回函数_20170722.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/迭代_20170712.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/迭代器_20170716.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/高阶函函函数_20170719.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/01安装Python.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,34 +21,46 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="2" />
+          <entry key="md" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="2" />
+          <entry key="Markdown" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="32" />
+          <entry key="md" value="652" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="32" />
+          <entry key="Markdown" value="652" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="15">
-                <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <first_editor>
+                <caret column="16" selection-start-column="16" selection-end-column="16" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01安装Python.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="495">
+                <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
               </first_editor>
               <second_editor />
             </state>
@@ -89,6 +76,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/01初始python.md" />
+        <option value="$PROJECT_DIR$/01安装Python.md" />
       </list>
     </option>
   </component>
@@ -101,6 +90,9 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1440" />
     <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -155,15 +147,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="821" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25107914" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25107914" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.2044818" />
+      <window_info anchor="bottom" id="Terminal" weight="0.35714287" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -197,8 +190,18 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="15">
-            <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <first_editor>
+            <caret column="16" selection-start-column="16" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01安装Python.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="495">
+            <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
           </first_editor>
           <second_editor />
         </state>
